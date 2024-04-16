@@ -8,7 +8,7 @@ public class Dome3 {
 //        f.createNewFile();
         String a="1";
         int i = Integer.parseInt(a);
-        System.out.println("-----------------------");
+
     }
 }
 

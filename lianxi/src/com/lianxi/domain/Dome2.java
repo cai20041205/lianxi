@@ -15,7 +15,7 @@ public class Dome2 {
 //        ds.close();
                 ServerSocket serverSocket = new ServerSocket(8080);
                 System.out.println("Server is running...");
-
+1
                 while (true) {
                     Socket clientSocket = serverSocket.accept();
                     System.out.println("Connected to client: " + clientSocket.getRemoteSocketAddress());
